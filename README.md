@@ -1,0 +1,1 @@
+# Magisk-and-module-LSposed
